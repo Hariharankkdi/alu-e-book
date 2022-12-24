@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ALU_EBook",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
